@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Porsche.Controllers.PortafolioController",
+    "Method": "Get",
+    "RelativePath": "api/portafolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
